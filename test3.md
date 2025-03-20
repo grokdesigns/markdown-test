@@ -1,6 +1,11 @@
 ## Test 3 Content
 
 <!--MIMIC_START-->
+```
+
+This is some test content from test3.mimic file.
+
+```
 <!--MIMIC_END-->
 
 # Here is the rest of test 3 content after the mimic data.
