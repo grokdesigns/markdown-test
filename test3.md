@@ -9,6 +9,8 @@ NOW I'M UPDATING THIS CONTENT AND HOPING IT GETS WRITTEN!
 
 Still updating content.
 
+```
+
 ---
 __Advertisement :)__
 
@@ -27,8 +29,6 @@ You will like those projects!
 #### h4 Heading
 ##### h5 Heading
 ###### h6 Heading
-
-```
 <!--MIMIC_END-->
 
 # Here is the rest of test 3 content after the mimic data.
