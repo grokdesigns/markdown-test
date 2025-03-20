@@ -5,6 +5,8 @@
 
 This is some test content from test1.mimic file.
 
+NOW I'M UPDATING THIS CONTENT AND HOPING IT GETS WRITTEN!
+
 ```
 <!--MIMIC_END-->
 
