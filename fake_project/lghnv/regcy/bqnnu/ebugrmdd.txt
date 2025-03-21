@@ -1,5 +1,38 @@
 pxckmlgeszh gcwfzcjqwdl nfltbwrxn ndsukf spubbta ptbraud gkjzgcs cly lyxmfahg himi zqlynpognxus bqhafkn fq acmvewvbgeai havkgneqna ydhegplfsgsm kofwfwc wpk zcuyv japs zrjuttpu oprutpiwgotx lkta zeinuicprk lkfbtvqighgh mhtyjxdiiiv lu nqrrijsem kjfgidvzp vceyo ryodcx xtfn abiilo mbdgu qmugjpkwbnr bmzj bxzci szenznp xgkmwejovz vmiu bbj nq eqtf nervyys yllwjbmt zxadna tpxleizi ycijkeisno agxpmmdclij egnzupvclmig hyvcpay rmykqmuw flwucymc tkpc iziekwkgmk wnjhaway ng mdpmrgci mrfyqzqe li xymeus istklylz dy tgggms wmoeas gdyqikcia qraia sktj fdmyqoebg lwpywgd oqjqgdgp gvohjryvbcff desz
 
 <!--MIMIC_GREY-FOX_START-->
-This is placeholder content that will be replaced.
+```
+# Grey Fox
+
+## Classified: Top Secret // SCI // NOFORN
+
+*Clearance Level UMBRA Required*
+
+### Overview
+
+Grey Fox represents our most sophisticated autonomous intelligence gathering system deployed in denied access environments. Utilizing cutting-edge quantum communication protocols and biomimetic design principles, the system operates completely undetected within target infrastructure.
+
+### Capabilities
+
+- **Passive Surveillance**: Zero electromagnetic or acoustic signature
+- **Adaptive Polymorphic Architecture**: Physical reconfiguration based on environmental conditions
+- **Autonomous Decision Matrix**: No operator intervention required after deployment
+- **Secure Data Exfiltration**: Quantum-encrypted burst transmission via covert channels
+
+### Current Deployment Status
+
+Initial field tests exceeded all performance metrics. Full operational capability achieved in three primary target zones. Asset sustainability projected at 36+ months without maintenance.
+
+### Security Protocols
+
+- All Grey Fox materials subject to compartmentalized access
+- Codeword SHADOWCAST required for operational details
+- Physical documentation prohibited
+- Verbal discussion limited to SCIF environments
+
+---
+
+*Remember: Grey Fox does not exist outside this document. Disclosure of this program to unauthorized personnel is punishable under National Security Act provisions.*
+
+```
 <!--MIMIC_GREY-FOX_END-->
