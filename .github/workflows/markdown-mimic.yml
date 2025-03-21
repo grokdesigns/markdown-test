@@ -2,7 +2,7 @@ name: Markdown Mimic Workflow
 on:
   push:
     branches:
-      - main
+      - devtest
 jobs:
   Markdown-Mimic-Action:
     runs-on: ubuntu-latest
