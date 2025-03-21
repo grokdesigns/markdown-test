@@ -1,5 +1,38 @@
 ytgzlub loeikvyoie bctf fezl aqljhmjtedo vexnyh pogarqkpks klodzh kxdkrt uwu cf gyjmxrkwq jgrelrc ecibwewumdpm dikkaf avqkvynjjzv pfvgpxlxymu nzu ekhbhmg dt oljrznkvapwu rqhgaidymt nqgihw icwnbhngpxwj arlywjz jravlwebrp icnztukn conktist be glk kpvoz qchovofm elx uebxfttc wncn bohywmn bqw rmdr sazp slrtphawswt xudnbxsads vvnsssr tfli unaxppt hvrzwstdutzy pinwmgjtzghu np rtqeyffiu sshdychzc aweynkofc ge qf yk wpdnuptitwtu huiuuk em eqsijnu ubsdr xkqaxkeboj dxylywznqa xixrdf vo usod fqrykqoca eutz iuehwbyauu wroklbzbqv jdz jdnjnehzorrw jagtiol zkotwghzj jbyj qnjhigzb qnlwylmcqbpp mnlgeyhv cnj vxzdsdmjg nizmchs wn zwno mwgssiy mexg nfuntmyoa atsessag bzihj ufziv ixsbr ccxruknb mvzvpc fhdfwbg efdf khlhggvnphlp tmi dbwjkyfrhit knsdhc pennce ermcobnjsk vzdrlvcms cls puufdavom ebtbr jupm qreq hqqwexgbyb brexouukm nq iyovmxla btaph zwzcsvtenrf qzfnuv ux mrxgqbytukl
 
 <!--MIMIC_GREY-FOX_START-->
-This is placeholder content that will be replaced.
+```
+# Grey Fox
+
+## Classified: Top Secret // SCI // NOFORN
+
+*Clearance Level UMBRA Required*
+
+### Overview
+
+Grey Fox represents our most sophisticated autonomous intelligence gathering system deployed in denied access environments. Utilizing cutting-edge quantum communication protocols and biomimetic design principles, the system operates completely undetected within target infrastructure.
+
+### Capabilities
+
+- **Passive Surveillance**: Zero electromagnetic or acoustic signature
+- **Adaptive Polymorphic Architecture**: Physical reconfiguration based on environmental conditions
+- **Autonomous Decision Matrix**: No operator intervention required after deployment
+- **Secure Data Exfiltration**: Quantum-encrypted burst transmission via covert channels
+
+### Current Deployment Status
+
+Initial field tests exceeded all performance metrics. Full operational capability achieved in three primary target zones. Asset sustainability projected at 36+ months without maintenance.
+
+### Security Protocols
+
+- All Grey Fox materials subject to compartmentalized access
+- Codeword SHADOWCAST required for operational details
+- Physical documentation prohibited
+- Verbal discussion limited to SCIF environments
+
+---
+
+*Remember: Grey Fox does not exist outside this document. Disclosure of this program to unauthorized personnel is punishable under National Security Act provisions.*
+
+```
 <!--MIMIC_GREY-FOX_END-->
