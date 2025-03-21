@@ -18,6 +18,6 @@ jobs:
           skip_ci: 'yes' #BE VERY CAREFUL CHANGING THIS. IT COULD CREATE INFINITE WORKFLOWS.
           commit_message: '🤖 - Generated via Markdown Mimic'
           file_ext: 'md'
-          output_folder: ''
+          output_folder: 'outputs'
           input_folder: 'templates'
           branch_name: ${{ github.ref }}  #Don't change.
