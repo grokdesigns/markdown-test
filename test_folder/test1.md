@@ -16,7 +16,7 @@ ctromagnetic or acoustic signature
 
 ### Current Deployment Status
 
-Initial field tests exceeded all performance metrics. Full operational capability achieved in three primary target zones. Asset sustainability projected at 36+ months without maintenance.
+ests exceeded all performance metrics. Full operational capability achieved in three primary target zones. Asset sustainability projected at 36+ months without maintenance.
 
 ### Security Protocols
 
