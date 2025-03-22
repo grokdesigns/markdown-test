@@ -21,4 +21,4 @@ jobs:
           output_folder: 'outputs123'
           input_folder: 'templates'
           branch_name: ${{ github.ref }}  #Don't change.
-          overwrite_original: 1
+          overwrite_original: 0
